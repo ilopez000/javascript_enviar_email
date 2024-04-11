@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Enviar correo electrónico</title>
+</head>
+<body>
+
+<h2>Formulario para enviar correo</h2>
+
+<form id="formularioCorreo">
+    <label for="asunto">Asunto:</label><br>
+    <input type="text" id="asunto" name="asunto"><br>
+    <label for="texto">Texto:</label><br>
+    <textarea id="texto" name="texto"></textarea><br><br>
+    <input type="submit" value="Enviar correo">
+</form> 
+
+
+
+</body>
+</html>
